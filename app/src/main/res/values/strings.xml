@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAlbo</string>
+    <string name="text_empty">En este momento no tenemos información para mostrar</string>
+</resources>
